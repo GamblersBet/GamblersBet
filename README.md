@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://api.font-generator.com/preview/28Days/58/790000/none/i+DESPISE+you.+/9faf6f52c84be7416804fd122c66edbb.png" />
-</p>
+
 
 <div align="center">
   <a href="]https://www.youtube.com/watch?v=jykv21tklHI&list=RDjykv21tklHI&index=1">
