@@ -1,4 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://api.font-generator.com/preview/28Days/58/790000/none/i+DESPISE+you.+/9faf6f52c84be7416804fd122c66edbb.png" />
+</p>
+
+<div align="center">
+  <a href="]https://www.youtube.com/watch?v=jykv21tklHI&list=RDjykv21tklHI&index=1">
+    <img src="https://static.wikia.nocookie.net/forsaken2024/images/9/93/Full_ITrapped_and_Chance_pic.webp/revision/latest/scale-to-width-down/250?cb=20250129185205" width="500">
+  </a>
+</div>
 
 <!--
 **GamblersBet/GamblersBet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
