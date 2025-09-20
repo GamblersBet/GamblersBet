@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="]https://www.youtube.com/watch?v=jykv21tklHI&list=RDjykv21tklHI&index=1">
-    <img src="https://static.wikia.nocookie.net/forsaken2024/images/9/93/Full_ITrapped_and_Chance_pic.webp/revision/latest/scale-to-width-down/250?cb=20250129185205" width="500">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc0NN1LfvhKMuPFT-jMrMhga5gDvgYk2nXxg&s" width="500">
   </a>
 </div>
 
